@@ -31,3 +31,6 @@ data = pd.DataFrame({
 data.to_csv('snapdeal_products.csv', index=False)
 
 print("Data for 5 products has been saved to snapdeal_products.csv")
+
+
+#this concept is new for me so i used code with harry youtube channel to learn this  
