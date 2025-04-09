@@ -2,7 +2,7 @@
 
 This repository contains the tasks I completed during my **Software Development Internship** at **Skillcraft Technology Ltd**.
 
-🎯 **Internship Duration**: [Insert Month-Year to Month-Year]  
+🎯 **Internship Duration**: sep 2024 to oct 2024  
 🏢 **Company**: Skillcraft Technology Ltd  
 🔧 **Role**: Software Development Intern
 
